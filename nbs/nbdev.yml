@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "icdpy"
+  site-url: "https://msicilia.github.io/icdpy"
+  description: "A library to deal with ICD"
+  repo-branch: master
+  repo-url: "https://github.com/msicilia/icdpy"
